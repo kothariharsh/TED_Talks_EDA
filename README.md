@@ -1,1 +1,1 @@
-# TED_Talks_EDA
+# TED_Talks_Rating_EDA
